@@ -8,11 +8,10 @@ p {
   margin-top: 10px;
 }
 
-.search-container{
+.search-container {
   border: 2px solid black;
   padding: 15px;
   border-radius: 2px;
-
 }
 
 .form-container.ng-submitted .stock-name-input.ng-invalid {
