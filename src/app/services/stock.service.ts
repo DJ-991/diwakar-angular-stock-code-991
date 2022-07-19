@@ -12,7 +12,7 @@ import {
   SentimentInfo,
   SymbolSearchResponse,
   SYMBOL_SEARCH_URL,
-} from '../static/stock.constants';
+} from '../static_data/stock.constants';
 
 @Injectable({
   providedIn: 'root',

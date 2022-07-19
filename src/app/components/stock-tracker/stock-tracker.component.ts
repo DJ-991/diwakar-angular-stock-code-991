@@ -1,7 +1,7 @@
 import { Component, OnDestroy } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { Subscription } from 'rxjs';
-import { LOCAL_STORE_KEY } from '../../static/stock.constants';
+import { LOCAL_STORE_KEY } from '../../static_data/stock.constants';
 
 @Component({
   styleUrls: ['./stock-tracker.component.css'],

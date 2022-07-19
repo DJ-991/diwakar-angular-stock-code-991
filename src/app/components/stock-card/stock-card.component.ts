@@ -1,7 +1,7 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import { StockService } from '../../services/stock.service';
-import { QuoteResponse, StockInfo } from '../../static/stock.constants';
+import { QuoteResponse, StockInfo } from '../../static_data/stock.constants';
 
 @Component({
   selector: 'app-stock-card',
